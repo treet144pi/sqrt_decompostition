@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/real_naive.dir/realization/simple.c.o  -o real_naive 

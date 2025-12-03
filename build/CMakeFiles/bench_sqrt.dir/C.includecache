@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/timur/с++/c++mipt/sqrt_decompostition/benchmarking/sqrt_bench.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+time.h
+-
+

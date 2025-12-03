@@ -1,0 +1,6 @@
+/home/timur/с++/c++mipt/sqrt_decompostition/build/CMakeFiles/rebuild_cache.dir
+/home/timur/с++/c++mipt/sqrt_decompostition/build/CMakeFiles/bench_sqrt.dir
+/home/timur/с++/c++mipt/sqrt_decompostition/build/CMakeFiles/edit_cache.dir
+/home/timur/с++/c++mipt/sqrt_decompostition/build/CMakeFiles/bench_naive.dir
+/home/timur/с++/c++mipt/sqrt_decompostition/build/CMakeFiles/real_sqrt.dir
+/home/timur/с++/c++mipt/sqrt_decompostition/build/CMakeFiles/real_naive.dir
