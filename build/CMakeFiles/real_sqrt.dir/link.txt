@@ -1,1 +1,0 @@
-/usr/bin/cc    CMakeFiles/real_sqrt.dir/realization/sqrt_r.c.o  -o real_sqrt  -lm 

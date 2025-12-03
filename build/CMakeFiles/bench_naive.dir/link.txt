@@ -1,1 +1,0 @@
-/usr/bin/cc    CMakeFiles/bench_naive.dir/benchmarking/simple.c.o  -o bench_naive 

@@ -1,1 +1,0 @@
-/usr/bin/cc    CMakeFiles/bench_sqrt.dir/benchmarking/sqrt_bench.c.o  -o bench_sqrt  -lm 
