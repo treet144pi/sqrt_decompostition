@@ -8,7 +8,9 @@
 ##  Система для замеров
 
 **Процессор:** 12th Gen Intel® Core™ i7-1255U × 12
+
 **ОЗУ:** 15.3 GiB
+
 **Графика:** Mesa Intel® Graphics (ADL GT2)
 **Диск:** SSD 512.1 GiB
 **ОС:** Ubuntu 20.04.6 LTS, GNOME 3.36.8, X11
